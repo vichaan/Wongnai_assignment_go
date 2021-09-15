@@ -1,2 +1,2 @@
-# Wongnai_assignment_go
+# Wongnai_assignment
 LINE MAN Wongnai Tech Interview assignment (go)
